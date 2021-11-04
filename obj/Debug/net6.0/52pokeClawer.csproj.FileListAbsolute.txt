@@ -1,0 +1,16 @@
+C:\Users\admin\52pokeClawer\bin\Debug\net6.0\52pokeClawer.exe
+C:\Users\admin\52pokeClawer\bin\Debug\net6.0\52pokeClawer.deps.json
+C:\Users\admin\52pokeClawer\bin\Debug\net6.0\52pokeClawer.runtimeconfig.json
+C:\Users\admin\52pokeClawer\bin\Debug\net6.0\52pokeClawer.dll
+C:\Users\admin\52pokeClawer\bin\Debug\net6.0\ref\52pokeClawer.dll
+C:\Users\admin\52pokeClawer\bin\Debug\net6.0\52pokeClawer.pdb
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.GlobalUsings.g.cs
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.csproj.AssemblyReference.cache
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.AssemblyInfoInputs.cache
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.AssemblyInfo.cs
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.csproj.CoreCompileInputs.cache
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.dll
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\ref\52pokeClawer.dll
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.pdb
+C:\Users\admin\52pokeClawer\obj\Debug\net6.0\52pokeClawer.genruntimeconfig.cache
